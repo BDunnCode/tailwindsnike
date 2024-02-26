@@ -29,8 +29,6 @@ const SuperQuality = () => {
           alt="shoe8"
         />
       </div>
-
-
     </section>
   )
 }
